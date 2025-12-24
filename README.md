@@ -2,7 +2,7 @@
 
 Planos utilizados en mi base de 6 millones eSPM / 340k SPM.
 
-![2](imagenes/base.jpg)
+![1](imagenes/base.jpg)
 
 ## Contenido
 - [Nauvis](#nauvis)
@@ -11,27 +11,30 @@ Planos utilizados en mi base de 6 millones eSPM / 340k SPM.
 - [Fulgora](#fulgora)
 - [Gleba](#gleba)
     - [Torres agrícolas](#torres-agrícolas)
+- [Aquilo](#aquilo)
+- [Ciencia espacial](#ciencia-espacial)
+- [Ciencia de prometio](#ciencia-de-prometio)
 - [Naves de carga](#naves-de-carga)
 - [Extras](#extras)
 
 
 ## Nauvis
-| Descripción                                   | Plano     | Autor      | Video     |
-|-----------------------------------------------|-----------|------------|-----------|
-| Ciencia de automatización (480/s)             | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/automation-science.txt)     | Abucnasty  | [youtube](https://youtu.be/HdMcEn3b55c?si=Vthl258pg4__LinZ)|
-| Ciencia logística (480/s)                     | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/logistic-science.txt)       | The end    | [youtube](https://youtu.be/2ENY4AjjdqE?si=DtR070aVo0FO1ebd)|
-| Ciencia química (240/s o 1440/s)              | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/chemical-science.txt)       | Abucnasty  | [youtube](https://youtu.be/ERd_4FzreG4?si=9WkyTKLyXTTaXqdw)|
-| Ciencia de producción (240/s o 1440/s)        | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/production-science.txt)     | Akaravortex| [youtube](https://youtu.be/3nzySixYj8g?si=xgrlQZFQD25dhcuW)|
-| Ciencia militar (240/s)                       | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/military-science.txt)       | reja       | |
-| Ciencia de utilidad (240/s)                   | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/utility-science.txt)        | reja       | |
+| Descripción                            | Plano     | Autor      | Video     |
+|----------------------------------------|-----------|------------|-----------|
+| Ciencia de automatización (480/s)      | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/automation-science.txt)     | Abucnasty  | [youtube](https://youtu.be/HdMcEn3b55c?si=Vthl258pg4__LinZ)|
+| Ciencia logística (480/s)              | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/logistic-science.txt)       | The end    | [youtube](https://youtu.be/2ENY4AjjdqE?si=DtR070aVo0FO1ebd)|
+| Ciencia química (240/s o 1440/s)       | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/chemical-science.txt)       | Abucnasty  | [youtube](https://youtu.be/ERd_4FzreG4?si=9WkyTKLyXTTaXqdw)|
+| Ciencia de producción (240/s o 1440/s) | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/production-science.txt)     | Akaravortex| [youtube](https://youtu.be/3nzySixYj8g?si=xgrlQZFQD25dhcuW)|
+| Ciencia militar (240/s)                | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/military-science.txt)       | reja       | |
+| Ciencia de utilidad (240/s)            | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/utility-science.txt)        | reja       | |
 
 Diseños viejos, menos eficientes en términos de UPS que los anteriores:
 | Descripción                                   | Plano     | Autor      | Video     |
 |-----------------------------------------------|-----------|------------|-----------|
-| Ciencia de automatización (960/s)             | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/old/old-automation-science.txt) | reja       | [youtube](https://youtu.be/HdMcEn3b55c?si=Vthl258pg4__LinZ)|
-| Ciencia logística (960/s)                     | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/old/old-logistic-science.txt)  | reja       | [youtube](https://youtu.be/2ENY4AjjdqE?si=DtR070aVo0FO1ebd)|
-| Ciencia química (240/s)                       | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/old/old-chemical-science.txt)   | reja       | [youtube](https://youtu.be/ERd_4FzreG4?si=9WkyTKLyXTTaXqdw)|
-| Ciencia de producción (240/s)                 | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/old/old-production-science.txt) | reja       | |
+| Ciencia de automatización (960/s)             | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/old/old-automation-science.txt) | reja    | [youtube](https://youtu.be/HdMcEn3b55c?si=Vthl258pg4__LinZ)|
+| Ciencia logística (960/s)                     | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/old/old-logistic-science.txt)   | reja    | [youtube](https://youtu.be/2ENY4AjjdqE?si=DtR070aVo0FO1ebd)|
+| Ciencia química (240/s)                       | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/old/old-chemical-science.txt)   | reja    | [youtube](https://youtu.be/ERd_4FzreG4?si=9WkyTKLyXTTaXqdw)|
+| Ciencia de producción (240/s)                 | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/nauvis/old/old-production-science.txt) | reja    |
 
 ### Control de la contaminación
 | Descripción                                   | Plano     | Autor      | Video     |
@@ -70,8 +73,29 @@ En este ejemplo la torre que cosecha yumako esta siendo controlada por este circ
 
 ![alt text](imagenes/torres-agricolas.png)
 
+## Aquilo
+
+| Descripción                           | Plano     | Autor       |
+|---------------------------------------|-----------|-------------|
+| Ciencia criogénica (232,75/s)         | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/aquilo/cryogenic-science.txt)    | reja       |
+| Combustible de cohete legendario      | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/aquilo/q5-rocket-fuel.txt)       | reja       |
+| Procesadores cuánticos                | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/aquilo/quantum-processor.txt)    | reja       |
+
+## Ciencia espacial
+
+| Descripción                           | Plano     |
+|---------------------------------------|-----------|
+| Ciencia espacial calidad rara (1280/s equivalente a 3840/s de calidad común)     | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/ships/q3-space-science.txt)    | Akaravortex       |
+
+## Ciencia de prometio
+
+| Descripción                           | Plano     | Autor     | Video     |
+|---------------------------------------|-----------|-----------|-----------|
+| Hiwashi v6.2 216k huevos de bitter    | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/ships/hiwashi6-2.txt) | clux | [youtube](https://youtu.be/NU-C7koOvI8?si=GC2I2CZ8kuBXzFi5)
+
+
 ## Naves de carga
-[Planos](https://github.com/reja-eng/factorio/tree/main/blueprints/cargo-ships.txt)
+[Planos](https://github.com/reja-eng/factorio/tree/main/blueprints/ships/cargo-ships.txt)
 
 Pensadas para megabases, optimizadas al máximo en UPS. Las Didis hechas por mi, Fulma adaptada por JohnFactory:
 
@@ -95,6 +119,8 @@ Los benchmarcks fueron realizados por 21600 ticks por 16 runs para cada diseño
 ## Extras
 | Descripción                                           | Plano     |
 |-------------------------------------------------------|-----------|
+| Casino espacial                                       | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/extras/space-casino.txt)   |
+| Spidermall                                            | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/extras/spider-mall.txt)    |
 | Perforadoras, hierro y cobre fundido para nauvis      | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/extras/drills.txt)         |
 | Inserter throughput                                   | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/extras/inserters.txt)      |
 | Fluid flow tester                                     | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/extras/fluid-tester.txt)   |

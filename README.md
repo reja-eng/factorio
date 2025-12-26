@@ -3,6 +3,7 @@
 Planos utilizados en mi base de 6 millones eSPM / 340k SPM.
 
 ![1](imagenes/base.jpg)
+Con la pestaña de producción cerrada y mirando únicamente a mi personaje AFK en Aquilo mantengo 58 UPS.
 
 ## Contenido
 - [Nauvis](#nauvis)
@@ -45,7 +46,7 @@ Diseños viejos, menos eficientes en términos de UPS que los anteriores:
 ## Vulcano
 | Descripción                                   | Plano     | Autor      |
 |-----------------------------------------------|-----------|------------|
-| Ciencia metalúrgica                           | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/vulcano/metalurgic-science.txt)    | reja       |
+| Ciencia metalúrgica (508/s)                   | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/vulcano/metalurgic-science.txt)    | reja       |
 | LDS shuffle                                   | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/vulcano/lds-shuffle.txt)           |            |
 
 ## Fulgora
@@ -68,7 +69,7 @@ Diseños hechos por mi, inspirados en Konage: [video](https://youtu.be/13ajXHSVd
 ## Torres agrícolas
 [Planos](https://github.com/reja-eng/factorio/tree/main/blueprints/gleba/agricultural-towers.txt)
 
-Forma de controlar las torres agrícolas con circuitos inspirada en Konage. El principal beneficio de este método es la estabilidad a la hora de cosechar las frutas a costa de un 2% menos de producción, fundamental a la hora de usar mi diseño de ciencia agrícola.
+Forma de controlar las torres agrícolas con circuitos inspirada en Konage. El principal beneficio de este método es la estabilidad a la hora de cosechar las frutas, fundamental a la hora de utilizar mi diseño de ciencia agrícola, a costa de un 2% menos de producción.
 En este ejemplo la torre que cosecha yumako esta siendo controlada por este circuito mientras que la de jelly no:
 
 ![alt text](imagenes/torres-agricolas.png)
@@ -83,8 +84,8 @@ En este ejemplo la torre que cosecha yumako esta siendo controlada por este circ
 
 ## Ciencia espacial
 
-| Descripción                           | Plano     |
-|---------------------------------------|-----------|
+| Descripción                           | Plano     | Autor       |
+|---------------------------------------|-----------|-------------|
 | Ciencia espacial calidad rara (1280/s equivalente a 3840/s de calidad común)     | [.txt](https://github.com/reja-eng/factorio/tree/main/blueprints/ships/q3-space-science.txt)    | Akaravortex       |
 
 ## Ciencia de prometio
